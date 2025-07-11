@@ -1,0 +1,11 @@
+{
+  "name": "DAI Bridged ZED20",
+  "symbol": "DAI.z",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "DAI.z is a bridged version of DAI token on Binance Smart Chain with a limited early offering.",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0xC9A594E7d0Da391Fa1970B9fEF996ec24f793f17",
+  "status": "active",
+  "id": "0xC9A594E7d0Da391Fa1970B9fEF996ec24f793f17"
+}
